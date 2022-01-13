@@ -2,6 +2,7 @@
  
 # 1. OBJETIVOS #
 **Objetivos específicos** 
+
 -Aplicar el teorema de máxima potencia de manera acertada, considerando la teoría y los conceptos estudiados.
 
 -Investigar sobre el programa Dcaclab y su funcionamiento, así como también, el uso del Wattmetro el cual va a ser necesario para dar solución a nuestro ejercicio
