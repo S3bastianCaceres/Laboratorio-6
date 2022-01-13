@@ -5,7 +5,7 @@
 
 -Aplicar el teorema de máxima potencia de manera acertada, considerando la teoría y los conceptos estudiados.
 
--Investigar sobre el programa Dcaclab y su funcionamiento, así como también, el uso del Wattmetro el cual va a ser necesario para dar solución a nuestro ejercicio
+-Investigar sobre el programa Dcaclab y su funcionamiento, así como también, el uso del Vatímetro el cual va a ser necesario para dar solución a nuestro ejercicio
 
 -Construir correctamente los circuitos, usando los elementos y valores de resistencias y voltajes asignados, así como también hacer uso del multímetro teniendo en cuenta los conceptos de serie y paralelo para medir tanto el voltaje como la corriente.
 
@@ -100,7 +100,7 @@ respuesta.**
 
 # 6. CONCLUSIONES #
 
--	Gracias a la investigación realizada para poder usar tanto dcaclab como el wattmetro pudimos hacer las mediciones correspondientes, aunque se nos complicó un poco y obtuvimos valores erróneos al principio. 
+-	Gracias a la investigación realizada para poder usar tanto dcaclab como el Vatímetro  pudimos hacer las mediciones correspondientes, aunque se nos complicó un poco y obtuvimos valores erróneos al principio. 
 
 -	Al hacer el cálculo del error obtuvimos un porcentaje menor al del 5% lo que nos permite verificar que lo realizado se encuentra correcto.
 
