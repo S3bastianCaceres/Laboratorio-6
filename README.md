@@ -59,18 +59,18 @@ resultados en la tabla 6.1.
 
 **Tabla 6.1. Parámetros Eléctricos del circuito de la figura 6.1.**
 
-|**RL (Ω)**|**Corriente medida (mA)**|**Voltaje medido (V)**|**Potencia calculada experimentalmente (W)**|**Potencia calculada teóricamente (W)**|
-|:---: | :---: |:---: | :---: |:---: |
-|   220   |      |       |      |       |
-|   470   |      |       |      |       |
-|   680   |      |       |      |       |
-|   820   |      |       |      |       |
-|   1000   |     |       |      |       |
-|   1500   |     |       |      |       |
-|   1800   |     |       |      |       |
-|   2200   |     |       |      |       |
-|   3900   |     |       |      |       |
-|   4700   |     |       |      |       |
+|**RL (Ω)**|**Corriente medida (mA)**|**Voltaje medido (V)**|**Potencia calculada experimentalmente (W)**|**Potencia calculada teóricamente (W)**|**%ERROR**|
+|:---: | :---: |:---: | :---: |:---: | :---:|
+|   220   |      |       |      |       |        |
+|   470   |      |       |      |       |        |
+|   680   |      |       |      |       |        | 
+|   820   |      |       |      |       |        |
+|   1000   |     |       |      |       |        |
+|   1500   |     |       |      |       |        |
+|   1800   |     |       |      |       |        |
+|   2200   |     |       |      |       |        |
+|   3900   |     |       |      |       |        |
+|   4700   |     |       |      |       |        |
 
 **¿Se cumple el Teorema de la Máxima Transferencia de Potencia? Argumente su
 respuesta.**
