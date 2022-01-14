@@ -22,7 +22,7 @@ Analizar y Comprobar experimentalmente el Teorema de la Máxima Transferencia de
 
 # 2. MARCO TEÓRICO #
 
-
+[![TMP.png](https://i.postimg.cc/tJpbZn3Z/TMP.png)](https://postimg.cc/ZB72XRD4)
 
 # 3. EXPLICACIÓN DEL PROCEDIMIENTO #
 
@@ -277,4 +277,5 @@ https://youtu.be/YDMpik4xUyU
 
 # 7. BIBLIOGRAFÍA #
 
-- 
+- A. (2021a, agosto 5). El. La fisica y quimica. https://lafisicayquimica.com/teorema-de-transferencia-de-potencia-maxima/
+- Roy, S. (2021, 13 mayo). Maximum Power Transfer Theorem | 3+ Important Steps| Explanations. Lambda Geeks. https://es.lambdageeks.com/maximum-power-transfer-theorem/
