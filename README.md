@@ -66,6 +66,7 @@ Anote los resultados medidos.
 
 Calcule las potencia consumida por RL, para cada valor dado y anote los
 resultados en la tabla 6.1.
+
 **Circuito en Tinkercad para voltajes y corrientes **
 
 ![imagen](https://user-images.githubusercontent.com/93798427/149428745-9801e0d6-d521-4a42-ac5c-5125fe2d7e93.png)
