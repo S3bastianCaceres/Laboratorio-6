@@ -109,6 +109,77 @@ resultados en la tabla 6.1.
 
 ![image](https://user-images.githubusercontent.com/93739242/149413080-9acd4ed6-35ac-4519-8869-c3142bab8eab.png)
 
+
+<h3>Cálculos matemáticos</h3>
+
+**<img src="https://latex.codecogs.com/svg.image?\textbf{-&space;Cuando&space;RL&space;=&space;220&space;ohms}&space;&space;" title="\textbf{- Cuando RL = 220 ohms} " />**
+
+<img src="https://latex.codecogs.com/svg.image?\bullet&space;\textrm{&space;Corriente&space;en&space;RL}\\\\I=\frac{V_{s}}{R_{s}+R{L}}=\frac{15&space;V}{1200\Omega&space;+&space;220\Omega}=0,01056A\\\\\bullet&space;\textrm&space;{Potencia&space;suministrada&space;en&space;RL}\\\\P_{L}=I^{2}R_{L}=(0.01056A)^{2}(220\Omega)=0.024W&space;&space;" title="\bullet \textrm{ Corriente en RL}\\\\I=\frac{V_{s}}{R_{s}+R{L}}=\frac{15 V}{1200\Omega + 220\Omega}=0,01056A\\\\\bullet \textrm {Potencia suministrada en RL}\\\\P_{L}=I^{2}R_{L}=(0.01056A)^{2}(220\Omega)=0.024W " />
+
+
+
+**<img src="https://latex.codecogs.com/svg.image?\textbf{-&space;Cuando&space;RL&space;=&space;470&space;ohms}&space;&space;" title="\textbf{- Cuando RL = 470 ohms} " />**
+
+
+<img src="https://latex.codecogs.com/svg.image?\bullet&space;\textrm{&space;Corriente&space;en&space;RL}\\\\I=\frac{V_{s}}{R_{s}+R{L}}=\frac{15&space;V}{1200\Omega&space;+&space;470\Omega}=0,00898A\\\\\bullet&space;\textrm&space;{Potencia&space;suministrada&space;en&space;RL}\\\\P_{L}=I^{2}R_{L}=(0,00898A)^{2}(470\Omega)=0,0379W&space;&space;" title="\bullet \textrm{ Corriente en RL}\\\\I=\frac{V_{s}}{R_{s}+R{L}}=\frac{15 V}{1200\Omega + 470\Omega}=0,00898A\\\\\bullet \textrm {Potencia suministrada en RL}\\\\P_{L}=I^{2}R_{L}=(0,00898A)^{2}(470\Omega)=0,0379W " />
+
+
+
+**<img src="https://latex.codecogs.com/svg.image?\textbf{-&space;Cuando&space;RL&space;=&space;680&space;ohms}&space;&space;" title="\textbf{- Cuando RL = 680 ohms} " />**
+
+<img src="https://latex.codecogs.com/svg.image?\bullet&space;\textrm{&space;Corriente&space;en&space;RL}\\\\I=\frac{V_{s}}{R_{s}+R{L}}=\frac{15&space;V}{1200\Omega&space;+&space;680\Omega}=0,00797A\\\\\bullet&space;\textrm&space;{Potencia&space;suministrada&space;en&space;RL}\\\\P_{L}=I^{2}R_{L}=(0,00797A)^{2}(680\Omega)=0.043W&space;&space;" title="\bullet \textrm{ Corriente en RL}\\\\I=\frac{V_{s}}{R_{s}+R{L}}=\frac{15 V}{1200\Omega + 680\Omega}=0,00797A\\\\\bullet \textrm {Potencia suministrada en RL}\\\\P_{L}=I^{2}R_{L}=(0,00797A)^{2}(680\Omega)=0.043W " />
+
+
+**<img src="https://latex.codecogs.com/svg.image?\textbf{-&space;Cuando&space;RL&space;=&space;820&space;ohms}&space;&space;" title="\textbf{- Cuando RL = 820 ohms} " />**
+
+
+<img src="https://latex.codecogs.com/svg.image?\bullet&space;\textrm{&space;Corriente&space;en&space;RL}\\\\I=\frac{V_{s}}{R_{s}&plus;R{L}}=\frac{15&space;V}{1200\Omega&space;&plus;&space;820\Omega}=0,00742A\\\\\bullet&space;\textrm&space;{Potencia&space;suministrada&space;en&space;RL}\\\\P_{L}=I^{2}R_{L}=(0,00742A)^{2}(820\Omega)=0,045W&space;&space;" title="\bullet \textrm{ Corriente en RL}\\\\I=\frac{V_{s}}{R_{s}+R{L}}=\frac{15 V}{1200\Omega + 820\Omega}=0,00742A\\\\\bullet \textrm {Potencia suministrada en RL}\\\\P_{L}=I^{2}R_{L}=(0,00742A)^{2}(820\Omega)=0,045W " />
+
+
+
+**<img src="https://latex.codecogs.com/svg.image?\textbf{-&space;Cuando&space;RL&space;=&space;1000&space;ohms}&space;&space;" title="\textbf{- Cuando RL = 1000 ohms} " />**
+
+
+
+<img src="https://latex.codecogs.com/svg.image?\bullet&space;\textrm{&space;Corriente&space;en&space;RL}\\\\I=\frac{V_{s}}{R_{s}&plus;R{L}}=\frac{15&space;V}{1200\Omega&space;&plus;&space;1000\Omega}=0,00681A\\\\\bullet&space;\textrm&space;{Potencia&space;suministrada&space;en&space;RL}\\\\P_{L}=I^{2}R_{L}=(0,00681A)^{2}(1000\Omega)=0,0464W&space;&space;" title="\bullet \textrm{ Corriente en RL}\\\\I=\frac{V_{s}}{R_{s}+R{L}}=\frac{15 V}{1200\Omega + 1000\Omega}=0,00681A\\\\\bullet \textrm {Potencia suministrada en RL}\\\\P_{L}=I^{2}R_{L}=(0,00681A)^{2}(1000\Omega)=0,0464W " />
+
+
+
+
+
+**<img src="https://latex.codecogs.com/svg.image?\textbf{-&space;Cuando&space;RL&space;=&space;1500&space;ohms}&space;&space;" title="\textbf{- Cuando RL = 1500 ohms} " />**
+
+
+<img src="https://latex.codecogs.com/svg.image?\bullet&space;\textrm{&space;Corriente&space;en&space;RL}\\\\I=\frac{V_{s}}{R_{s}&plus;R{L}}=\frac{15&space;V}{1200\Omega&space;&plus;&space;1500\Omega}=0.0055A\\\\\bullet&space;\textrm&space;{Potencia&space;suministrada&space;en&space;RL}\\\\P_{L}=I^{2}R_{L}=(0.0055A)^{2}(1500\Omega)=0.046W&space;&space;" title="\bullet \textrm{ Corriente en RL}\\\\I=\frac{V_{s}}{R_{s}+R{L}}=\frac{15 V}{1200\Omega + 1500\Omega}=0.0055A\\\\\bullet \textrm {Potencia suministrada en RL}\\\\P_{L}=I^{2}R_{L}=(0.0055A)^{2}(1500\Omega)=0.046W " />
+
+
+
+**<img src="https://latex.codecogs.com/svg.image?\textbf{-&space;Cuando&space;RL&space;=&space;1800&space;ohms}&space;&space;" title="\textbf{- Cuando RL = 1800 ohms} " />**
+
+
+<img src="https://latex.codecogs.com/svg.image?\bullet&space;\textrm{&space;Corriente&space;en&space;RL}\\\\I=\frac{V_{s}}{R_{s}&plus;R{L}}=\frac{15&space;V}{1200\Omega&space;&plus;&space;1800\Omega}=0.005A\\\\\bullet&space;\textrm&space;{Potencia&space;suministrada&space;en&space;RL}\\\\P_{L}=I^{2}R_{L}=(0.005A)^{2}(1800\Omega)=0.045W&space;&space;" title="\bullet \textrm{ Corriente en RL}\\\\I=\frac{V_{s}}{R_{s}+R{L}}=\frac{15 V}{1200\Omega + 1800\Omega}=0.005A\\\\\bullet \textrm {Potencia suministrada en RL}\\\\P_{L}=I^{2}R_{L}=(0.005A)^{2}(1800\Omega)=0.045W " />
+
+
+
+**<img src="https://latex.codecogs.com/svg.image?\textbf{-&space;Cuando&space;RL&space;=&space;2200&space;ohms}&space;&space;" title="\textbf{- Cuando RL = 2200 ohms} " />**
+
+
+<img src="https://latex.codecogs.com/svg.image?\bullet&space;\textrm{&space;Corriente&space;en&space;RL}\\\\I=\frac{V_{s}}{R_{s}&plus;R{L}}=\frac{15&space;V}{1200\Omega&space;&plus;&space;2200\Omega}=0.004411A\\\\\bullet&space;\textrm&space;{Potencia&space;suministrada&space;en&space;RL}\\\\P_{L}=I^{2}R_{L}=(0.004411A)^{2}(2200\Omega)=0.0428W&space;&space;" title="\bullet \textrm{ Corriente en RL}\\\\I=\frac{V_{s}}{R_{s}+R{L}}=\frac{15 V}{1200\Omega + 2200\Omega}=0.004411A\\\\\bullet \textrm {Potencia suministrada en RL}\\\\P_{L}=I^{2}R_{L}=(0.004411A)^{2}(2200\Omega)=0.0428W " />
+
+
+**<img src="https://latex.codecogs.com/svg.image?\textbf{-&space;Cuando&space;RL&space;=&space;3900&space;ohms}&space;&space;" title="\textbf{- Cuando RL = 3900 ohms} " />**
+
+
+<img src="https://latex.codecogs.com/svg.image?\bullet&space;\textrm{&space;Corriente&space;en&space;RL}\\\\I=\frac{V_{s}}{R_{s}&plus;R{L}}=\frac{15&space;V}{1200\Omega&space;&plus;&space;3900\Omega}=0.00294A\\\\\bullet&space;\textrm&space;{Potencia&space;suministrada&space;en&space;RL}\\\\P_{L}=I^{2}R_{L}=(0.00294A)^{2}(3900\Omega)=0.0337W&space;&space;" title="\bullet \textrm{ Corriente en RL}\\\\I=\frac{V_{s}}{R_{s}+R{L}}=\frac{15 V}{1200\Omega + 3900\Omega}=0.00294A\\\\\bullet \textrm {Potencia suministrada en RL}\\\\P_{L}=I^{2}R_{L}=(0.00294A)^{2}(3900\Omega)=0.0337W " />
+
+
+
+**<img src="https://latex.codecogs.com/svg.image?\textbf{-&space;Cuando&space;RL&space;=&space;4700&space;ohms}&space;&space;" title="\textbf{- Cuando RL = 4700 ohms} " />**
+
+<img src="https://latex.codecogs.com/svg.image?\bullet&space;\textrm{&space;Corriente&space;en&space;RL}\\\\I=\frac{V_{s}}{R_{s}&plus;R{L}}=\frac{15&space;V}{1200\Omega&space;&plus;&space;4700\Omega}=0.00254A\\\\\bullet&space;\textrm&space;{Potencia&space;suministrada&space;en&space;RL}\\\\P_{L}=I^{2}R_{L}=(0.00254A)^{2}(4700\Omega)=0.0304W&space;&space;" title="\bullet \textrm{ Corriente en RL}\\\\I=\frac{V_{s}}{R_{s}+R{L}}=\frac{15 V}{1200\Omega + 4700\Omega}=0.00254A\\\\\bullet \textrm {Potencia suministrada en RL}\\\\P_{L}=I^{2}R_{L}=(0.00254A)^{2}(4700\Omega)=0.0304W " />
+
+
+
 # 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR #
 
 **Tabla 6.1. Parámetros Eléctricos del circuito de la figura 6.1.**
