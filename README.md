@@ -67,6 +67,54 @@ Anote los resultados medidos.
 Calcule las potencia consumida por RL, para cada valor dado y anote los
 resultados en la tabla 6.1.
 
+**Circuito en Tinkercad para voltajes y corrientes **
+
+![imagen](https://user-images.githubusercontent.com/93798427/149428745-9801e0d6-d521-4a42-ac5c-5125fe2d7e93.png)
+
+- **Con RL(Ω)=220**
+
+![imagen](https://user-images.githubusercontent.com/93798427/149428778-10445b2b-ce18-456c-ae5a-dea59dfcb9d1.png)
+
+- **Con RL(Ω)=470**
+
+![imagen](https://user-images.githubusercontent.com/93798427/149428809-a5db0ed3-746e-4038-9306-e68cfb550029.png)
+
+
+- **Con RL(Ω)=680**
+
+![imagen](https://user-images.githubusercontent.com/93798427/149428841-8c4e08c5-45f1-46b3-b520-6460ce016810.png)
+
+- **Con RL(Ω)=820**
+
+![imagen](https://user-images.githubusercontent.com/93798427/149428888-2e94280f-898d-4ba9-a278-0a8ec4bcabed.png)
+
+- **Con RL(Ω)=1000**
+
+![imagen](https://user-images.githubusercontent.com/93798427/149428931-7fdf9d5f-aa4f-4940-ac7f-a0c226ceff42.png)
+
+
+- **Con RL(Ω)=1500**
+
+![imagen](https://user-images.githubusercontent.com/93798427/149428953-779701ec-cf7a-4bb0-8361-dabc8c700cd9.png)
+
+- **Con RL(Ω)=1800**
+
+![imagen](https://user-images.githubusercontent.com/93798427/149428984-1450a398-088e-47f3-90d3-88f0ba9b11f7.png)
+
+- **Con RL(Ω)=2200**
+
+![imagen](https://user-images.githubusercontent.com/93798427/149429035-6dcffa98-126e-4f47-86be-3810f76e4946.png)
+
+- **Con RL(Ω)=3900**
+
+![imagen](https://user-images.githubusercontent.com/93798427/149429065-95c8bbe1-3b5a-403d-9eea-f149316bcdeb.png)
+
+- **Con RL(Ω)=4700**
+
+![imagen](https://user-images.githubusercontent.com/93798427/149429114-d81cc1a8-afc2-4788-b3af-f0372772b902.png)
+
+
+
 **CIRCUITO ARMADO EN DCAClab PARA MEDIR LA POTENCIA**
 
 - **Con RL(Ω)=220**
@@ -182,7 +230,8 @@ resultados en la tabla 6.1.
 
 # 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR #
 
-**Tabla 6.1. Parámetros Eléctricos del circuito de la figura 6.1.**
+**Tabla 6.1. Parámetros Eléctricos del 
+de la figura 6.1.**
 
 |**RL (Ω)**|**Corriente medida (mA)**|**Voltaje medido (V)**|**Potencia calculada experimentalmente (W)**|**Potencia calculada teóricamente (W)**|**%ERROR**|
 |:---: | :---: |:---: | :---: |:---: | :---:|
