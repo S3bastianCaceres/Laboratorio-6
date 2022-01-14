@@ -2,18 +2,21 @@
  
 # 1. OBJETIVOS #
 
+**Objetivo General**
+
+Analizar y Comprobar experimentalmente el Teorema de la Máxima Transferencia de Potencia realizando su respectiva simulación para asi obtener resultados que satisfagan dicho teorema donde se analice el efecto de la variación de la carga en la potencia entregada por un circuito.
+
 **Objetivos específicos** 
 
--Aplicar el teorema de máxima potencia de manera acertada, considerando la teoría y los conceptos estudiados.
+- Aplicar el teorema de máxima potencia de manera acertada, considerando la teoría y los conceptos estudiados.
 
--Investigar sobre el programa Dcaclab y su funcionamiento, así como también, el uso del vatímetro el cual va a ser necesario para dar solución a nuestro ejercicio
+- Investigar sobre el programa Dcaclab y su funcionamiento, así como también, el uso del vatímetro el cual va a ser necesario para dar solución a nuestro ejercicio
 
--Construir correctamente los circuitos, usando los elementos y valores de resistencias y voltajes asignados, así como también hacer uso del multímetro teniendo en cuenta los conceptos de serie y paralelo para medir tanto el voltaje como la corriente.
+- Construir correctamente los circuitos, usando los elementos y valores de resistencias y voltajes asignados, así como también hacer uso del multímetro teniendo en cuenta los conceptos de serie y paralelo para medir tanto el voltaje como la corriente.
 
--Obtener un error menor del 5% en los valores obtenidos ya sea mediante los cálculos, los que se realizaron en Tinkercad y los obtenidos en dcaclab
+- Obtener un error menor del 5% en los valores obtenidos ya sea mediante los cálculos, los que se realizaron en Tinkercad y los obtenidos en dcaclab
 
--Construir el circuito en Tinkercad y realizar las mediciones correspondientes del voltaje y la corriente en RL y posteriormente usar Dcaclab para poder calcular la potencia.
-
+- Construir el circuito en Tinkercad y realizar las mediciones correspondientes del voltaje y la corriente en RL y posteriormente usar Dcaclab para poder calcular la potencia.
 
 
 
@@ -249,24 +252,29 @@ de la figura 6.1.**
 **¿Se cumple el Teorema de la Máxima Transferencia de Potencia? Argumente su
 respuesta.**
 
+Si se cumple el Teorema de la Máxima Transferencia de Potencia, ya que este nos dice que en el circuito resulta el teorema cuando la resistencia de la carga es igual a la resistencia interna del generador, y en este caso especifico observamos que el mayor valor de la potencia se da en la RL de 1000 Ω esto debido a que es el valor de resistencia mas cercano a la resistencia RS la cual es de 1200 Ω demostrando asi que se cumple la maxima transferencia de Potencia.
 
 
-**¿Cuál fue la potencia máxima en RL?** 
+**¿Cuál fue la potencia máxima en RL?** La potencia maxima encontrada es de 0.464 Watts
 
-**¿Para qué valor de RL se obtiene la MTP?**
+**¿Para qué valor de RL se obtiene la MTP?** Obtenemos la MTP en la resistencia de 1000 Ω
 
 
 # 5. VIDEO #
 
-
+https://youtu.be/YDMpik4xUyU
 
 
 # 6. CONCLUSIONES #
 
 -	Gracias a la investigación realizada para poder usar tanto dcaclab como el vatímetro pudimos hacer las mediciones correspondientes, aunque se nos complicó un poco y obtuvimos valores erróneos al principio. 
 
--	Al hacer el cálculo del error obtuvimos un porcentaje menor al del 5% lo que nos permite verificar que lo realizado se encuentra correcto.
+-	Al hacer el cálculo del error se obtuvo errores mayores al 5% donde se observa que el problema ocurre en el resultado obtenido en el analisis experemiental lo cual indica que la respuesta aproximada dad por este simulador puede fallar en algunos casos.
+
+- Gracias al estudio de los conceptos claves del teorema podemos aprender como este se relaciona con los temas revisados con anterioridad como son el teorema de thevenin y norton, ademas de que tambien pudimos notar la relación de que al aumentar la resistencia y el voltaje, la corriente y la potencia disminuye.
 
 
 
 # 7. BIBLIOGRAFÍA #
+
+- 
